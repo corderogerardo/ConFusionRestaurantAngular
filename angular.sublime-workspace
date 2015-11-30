@@ -1,0 +1,812 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-",
+				"border-bottom	styl"
+			],
+			[
+				"ba",
+				"background-image	styl"
+			],
+			[
+				"bord",
+				"bordes"
+			],
+			[
+				"margin",
+				"margin-left	styl"
+			],
+			[
+				"bordes",
+				"bordesMaterial"
+			],
+			[
+				"text",
+				"text-shadow	styl"
+			],
+			[
+				"font",
+				"font-weight	styl"
+			],
+			[
+				"ver",
+				"verdeMaterial2"
+			],
+			[
+				"rg",
+				"rgba	rgba"
+			],
+			[
+				"tur",
+				"turquesaApps"
+			],
+			[
+				"turque",
+				"turquesaApps"
+			],
+			[
+				"back",
+				"background-color	styl"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"bor",
+				"border	styl"
+			],
+			[
+				"tu",
+				"turquesaOscuro"
+			],
+			[
+				"border",
+				"border-bottom	styl"
+			],
+			[
+				"tra",
+				"transition	styl"
+			],
+			[
+				"tran",
+				"transition	styl"
+			],
+			[
+				"under",
+				"underlineAnimated"
+			],
+			[
+				"backgr",
+				"background-image	styl"
+			],
+			[
+				"id",
+				"id	Element"
+			],
+			[
+				"turqu",
+				"turquesaApps"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"in",
+				"inputs	input - submit"
+			],
+			[
+				"contenedor",
+				"contenedorIzquierdo	(jugador.html)"
+			],
+			[
+				"wid",
+				"width	(jugador.html)"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"turquesa",
+				"turquesaFondo"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"s",
+				"sweetness"
+			],
+			[
+				"pink",
+				"pinkaccent"
+			],
+			[
+				"inpu",
+				"inputs	input - submit"
+			],
+			[
+				"but",
+				"button	<button>"
+			],
+			[
+				"for",
+				"form	<form>"
+			],
+			[
+				"sol",
+				"socialIconos	(index.html)"
+			],
+			[
+				"rosa",
+				"rosa	(style.styl)"
+			],
+			[
+				"informaci",
+				"informacionEmpresa	(index.html)"
+			],
+			[
+				"bak",
+				"background"
+			],
+			[
+				"core-in",
+				"core-iconset	core-iconset"
+			],
+			[
+				"web",
+				"webcomponents"
+			],
+			[
+				"core",
+				"core-icon	core-icon"
+			],
+			[
+				"arreglo",
+				"arreglo3"
+			],
+			[
+				"log",
+				"console.log"
+			],
+			[
+				"length",
+				"length	Array"
+			],
+			[
+				"az",
+				"alizarin"
+			],
+			[
+				"na",
+				"nav"
+			],
+			[
+				"ama",
+				"amarillogirasol"
+			],
+			[
+				"a",
+				"alizarin"
+			],
+			[
+				"verde",
+				"verdeoceano"
+			],
+			[
+				"ros",
+				"rosa"
+			],
+			[
+				"tim",
+				"timberlake〔variable〕"
+			],
+			[
+				"get",
+				"getArrested"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"color",
+				"colorGris"
+			],
+			[
+				"bla",
+				"blanco"
+			],
+			[
+				"algin",
+				"align-items"
+			],
+			[
+				"bl",
+				"colorBlanco"
+			],
+			[
+				"wa",
+				"wetasphalt"
+			],
+			[
+				"gr",
+				"green"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"inl",
+				"inline-flex"
+			],
+			[
+				"g",
+				"grisscarlet"
+			],
+			[
+				"jus",
+				"justify-content"
+			],
+			[
+				"conten",
+				"align-content"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"we",
+				"web"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"gris",
+				"grisscarlet"
+			],
+			[
+				"inlin",
+				"inline-flex"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"zi",
+				"z-index"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"ar",
+				"articuloC"
+			],
+			[
+				"caja",
+				"cajaArticulos"
+			],
+			[
+				"content",
+				"justify-content"
+			],
+			[
+				"w",
+				"whsc	white-space-collapse"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"se",
+				"section	<section>"
+			],
+			[
+				"li",
+				"lighter"
+			],
+			[
+				"ve",
+				"vendor"
+			],
+			[
+				"transi",
+				"transicion"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"as",
+				"asbestos"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"h",
+				"h1	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"git re",
+				"Git: Pull Using Rebase"
+			],
+			[
+				"push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Init"
+			]
+		],
+		"width": 430.0
+	},
+	"console":
+	{
+		"height": 152.0,
+		"history":
+		[
+			"git add .",
+			"git config",
+			"git",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/root/Projects/angular"
+	],
+	"file_history":
+	[
+		"/home/gerardo/homestead",
+		"/root/Projects/ciec/app/Http/routes.php",
+		"/root/Projects/ciec/resources/views/welcome.blade.php",
+		"/root/Projects/ciec/resources/views/login.blade.php",
+		"/home/gerardo/MEGAsync Downloads/[Platzi] Curso Profesional de Frontend - [comparte-la.blogspot.com].part01/Informacion.txt",
+		"/root/Projects/ciec/database/seeds/DatabaseSeeder.php",
+		"/root/Projects/ciec/database/seeds/UserTableSeeder.php",
+		"/home/gerardo/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/root/Projects/ciec/app/Http/Middleware/Authenticate.php",
+		"/home/gerardo/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/root/Projects/ciec/.env",
+		"/root/Projects/ciec/app/Http/Kernel.php",
+		"/root/Projects/ciec/app/Http/Middleware/EncryptCookies.php",
+		"/root/Projects/ciec/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/root/Projects/ciec/app/Http/Middleware/VerifyCsrfToken.php",
+		"/root/Projects/ciec/config/app.php",
+		"/root/Projects/ciec/app/Providers/AppServiceProvider.php",
+		"/root/Projects/ciec/app/Providers/EventServiceProvider.php",
+		"/root/Projects/ciec/app/Providers/RouteServiceProvider.php",
+		"/root/Projects/ciec/app/Http/Controllers/Controller.php",
+		"/home/gerardo/idea-IC-141.1532.4/Install-Linux-tar.txt",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/index.zul",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/style/style2.css",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/style2.styl",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/layouts/menu.zul",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/layouts/slide.zul",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/layouts/slider2.zul",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/style.css",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/materialize.css",
+		"/home/gerardo/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/gerardo/url traficmoon",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/js/materialize.min.js",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/js/init.js",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/js/custom.js",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/style/style.styl",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/style/archivo.js",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/style/style.css",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/style/prism.css",
+		"/opt/lampp/htdocs/IniciodeHtml/materialize/css/materialize.css",
+		"/opt/lampp/htdocs/solidscript/public/statics/js/functions.js",
+		"/opt/lampp/htdocs/solidscript/app/controllers/UsersController.php",
+		"/opt/lampp/htdocs/solidscript/app/lang/es/messages.php",
+		"/opt/lampp/htdocs/solidscript/app/config/app.php",
+		"/opt/lampp/htdocs/solids/app/config/database.php",
+		"/opt/lampp/htdocs/solids/app/config/app.php",
+		"/opt/lampp/htdocs/solids/public/statics/js/functions.js",
+		"/opt/lampp/htdocs/solidscript/app/config/database.php",
+		"/opt/lampp/htdocs/solidscript/bootstrap/autoload.php",
+		"/opt/lampp/htdocs/Solidscript/bootstrap/autoload.php",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/css/style.styl",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/jugador.html",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/jugador.zul",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/css/style.css",
+		"/home/gerardo/workspaceJEE/QuinielaSocial/WebContent/css/jugador.styl",
+		"/home/gerardo/workspaceJEE/quiniela/index.html",
+		"/home/gerardo/workspaceJEE/quiniela/jugador.html",
+		"/home/gerardo/workspaceJEE/quiniela/css/style.styl",
+		"/home/gerardo/workspaceJEE/quiniela/css/jugador.styl",
+		"/home/gerardo/workspacecpp/PracticaII/src/main.cpp",
+		"/home/gerardo/workspacecpp/PracticaII/src/Cola.cpp",
+		"/home/gerardo/workspacecpp/algoritmo machine learning que aprende a jugar mario",
+		"/home/gerardo/workspaceJEE/quiniela/css/style.css",
+		"/home/gerardo/workspaceJEE/quiniela/css/prism.css",
+		"/home/gerardo/workspaceJEE/quiniela/imagenes/logonegro1.svg",
+		"/home/gerardo/workspaceJEE/Quiniela/css/style.styl",
+		"/home/gerardo/workspaceJEE/Quiniela/style.styl",
+		"/home/gerardo/workspaceJEE/Quiniela/index.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo/articuloMolde.php",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/cssindex/index.styl",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo/Darticulo1.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo/Darticulo10.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/articuloMolde.php",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo1.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/index.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo/Darticulo2.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/tienda.php",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/enviar.php",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/contacto.php",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/contacto.css",
+		"/opt/lampp/htdocs/IniciodeHtml/Gilberto/phpgerad/contacto.php",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/materialize/Enmacss/materialize.css",
+		"/opt/lampp/htdocs/IniciodeHtml/Gilberto/phpgerad/enviar.php",
+		"/opt/lampp/htdocs/IniciodeHtml/Gilberto/phpgerad/contacto.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/contacto.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/test.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/cssgaleria/galeria.css",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo/Darticulo11.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo/Darticulo12.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo/Darticulo13.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo/Darticulo14.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo/Darticulo3.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo/Darticulo4.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo/Darticulo5.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo/Darticulo6.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo/Darticulo7.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo/Darticulo8.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo/Darticulo9.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/js/galeria.js",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/cssindex/index.css",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/materialize/css/materialize.css",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/galeria.html",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/galeriajh.html",
+		"/opt/lampp/htdocs/IniciodeHtml/style/style.styl",
+		"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/cssgaleria/galeria.styl",
+		"/opt/lampp/htdocs/IniciodeHtml/stylus/style.styl",
+		"/opt/lampp/htdocs/IniciodeHtml/Enmanuel/Darticulo1.html",
+		"/opt/lampp/htdocs/IniciodeHtml/Enmanuel/enmanuel.html",
+		"/opt/lampp/htdocs/inicioPolymer/inicioHtml.zip",
+		"/opt/lampp/htdocs/inicioPolymer/index.html",
+		"/home/gerardo/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/gerardo/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/opt/lampp/htdocs/inicioPolymer/bower_components/paper-material/index.html",
+		"/opt/lampp/htdocs/inicioPolymer/bower.json",
+		"/opt/lampp/htdocs/inicioPolymer/bower_components/paper-material/paper-material.html",
+		"/media/gerardo/GIL/calendario.php",
+		"/home/gerardo/ciecGit/ciecGit/commitsText",
+		"/home/gerardo/ciecGit/ciecGit/README.md",
+		"/home/gerardo/ciecGit/ciecGit/et HEAD --hard",
+		"/opt/lampp/htdocs/IniciodeHtml/inicioJavaScript/ECMAScript 6/ConstantesyVariables.js",
+		"/opt/lampp/htdocs/IniciodeHtml/inicioJavaScript/clase1/index.html",
+		"/opt/lampp/htdocs/IniciodeHtml/inicioJavaScript/clase1/bucles.js",
+		"/opt/lampp/htdocs/IniciodeHtml/inicioJavaScript/clase1/variables.js",
+		"/opt/lampp/htdocs/IniciodeHtml/inicioJavaScript/clase1/Desarrollador.js",
+		"/opt/lampp/htdocs/IniciodeHtml/inicioJavaScript/clase1/Persona.js",
+		"/opt/lampp/htdocs/IniciodeHtml/inicioJavaScript/clase1/practica2.js",
+		"/opt/lampp/htdocs/IniciodeHtml/inicioJavaScript/clase1/practica1.js",
+		"/opt/lampp/htdocs/IniciodeHtml/inicioJavaScript/clase1/codigo.js",
+		"/home/gerardo/paquetes a instalar"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/opt/lampp/htdocs/IniciodeHtml/ProyectoDeepWeb/Darticulo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n		",
+			"white",
+			"7px",
+			"introduccion",
+			"8em",
+			"\n		",
+			"%\n",
+			"path",
+			"s8",
+			"%\n",
+			"70",
+			"%\n",
+			"50",
+			"quiniela.com",
+			"500px",
+			"test.html",
+			"50",
+			"foot",
+			"\n#",
+			"black",
+			"\n	",
+			"60",
+			"80",
+			"@font-face",
+			"fonts",
+			"align-items center\n		display inline-flex\n		flex-direction row",
+			"%\n",
+			"timberlake",
+			"};",
+			"div",
+			"1",
+			"50px",
+			"center",
+			"320",
+			"verdeoseano",
+			"50",
+			"80",
+			"70",
+			"50px",
+			"250px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tienda.php",
+			"derechaAbajo",
+			"verdeoceano"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 77.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 231.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 336.0
+	},
+	"pinned_build_system": "",
+	"project": "angular.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"modulos/timberlake.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/workspaceJEE/Quiniela/quiniela.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
