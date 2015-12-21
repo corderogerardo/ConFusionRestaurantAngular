@@ -55,9 +55,10 @@
 						</ul>
 							
 						</div>
-						<div class="col-xs-10 col-xs-offset-1" ng-controller="DishCommentController">
-	                    					<ul class="list-unstyled" ng-show="showComments">
-							 <blockquote >
+						<div class="col-xs-9 col-xs-offset-1" ng-controller="DishCommentController">
+	                    					<ul class="list-unstyled" >
+	                    					<!-- LOL this was so stupid to do it, :( -->
+							 <blockquote ng-show="commentForm.$valid && !commentForm.$pristine">
 								 <p>Rating: {{comment.rating}}</p>
 								 <p>Comment: {{comment.comment}}</p>
 								 <p>Author: {{comment.author}} - Date: {{comment.date | date : short }}</p>
