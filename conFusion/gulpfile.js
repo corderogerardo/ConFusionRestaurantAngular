@@ -12,7 +12,7 @@ var gulp = require('gulp'),
     changed = require('gulp-changed'),
     rev = require('gulp-rev'),
     browserSync = require('browser-sync'),
-    var ngannotate = require('gulp-ng-annotate'),
+    ngannotate = require('gulp-ng-annotate'),
     del = require('del');
 
     gulp.task('jshint', function() {
@@ -22,7 +22,7 @@ var gulp = require('gulp'),
 });
 
     gulp.task('usemin',['jshint'], function () {
-  return gulp.src('./app/menu.html')
+  return gulp.src('./app/index.html')
       .pipe(usemin({
         css:[minifycss(),rev()],
         js: [ngannotate(),uglify(),rev()]
@@ -70,7 +70,7 @@ gulp.task('browser-sync', ['default'], function () {
    browserSync.init(files, {
       server: {
          baseDir: "dist",
-         index: "menu.html"
+         index: "index.html"
       }
    });
         // Watch any files in dist/, reload on change
