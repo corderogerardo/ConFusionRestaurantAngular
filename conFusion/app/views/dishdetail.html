@@ -1,6 +1,8 @@
 <div class="container" ng-controller="DishDetailController">
 				<div class="row row-content" >
 						<div class="col-xs-12 col-md-12">
+						<button type="button" class="btn btn-xs btn-primary pull-right" ui-sref="app.menu">Back to menu</button>
+						<div class="media">
 						 <div class="media-left media-middle" >
 									<img class="media-object img-thumbnail"
 									 ng-src={{dish.image}} alt="Uthappizza">
@@ -11,6 +13,7 @@
 									 <span class="badge">{{dish.price | currency}}</span></h2>
 									<p>{{dish.description}}</p>
 							</div>
+						</div>
 						</div>
 						<div class="col-xs-9 col-xs-offset-1" >
 									
