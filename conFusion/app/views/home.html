@@ -1,5 +1,5 @@
 
-    <div class="container" ng-controller="IndexController">
+<div class="container" ng-controller="IndexController">
         <div class="row row-content">
             <div class="col-xs-12 col-sm-3 col-sm-push-9">
                 <p style="padding:20px;"></p>
@@ -12,12 +12,12 @@
                 <div class="media" ng-if="showDish">
                     <div class="media-left media-middle">
                         <img class="media-object img-thumbnail"
-                         ng-src="{{dishes.image}}" >
+                         ng-src="{{dish.image}}" >
                     </div>
                     <div class="media-body">
 
-                        <h2 class="media-heading">{{dishes.name}} <span class="label label-danger">{{dishes.label}}</span> <span class="badge">{{dishes.price}}</span> </h2>
-                        <p>{{dishes.description}}</p>
+                        <h2 class="media-heading">{{dish.name}} <span class="label label-danger">{{dish.label}}</span> <span class="badge">{{dish.price}}</span> </h2>
+                        <p>{{dish.description}}</p>
                         <p><a class="btn btn-primary btn-xs" href="#">More &raquo;</a></p>
                     </div>
                 </div>
@@ -73,4 +73,4 @@
                 </div>
             </div>
         </div>
-    </div>
+ </div>
