@@ -21,13 +21,14 @@ var gulp = require('gulp'),
   .pipe(jshint.reporter(stylish));
 });
 
-    gulp.task('usemin',['jshint'], function () {
-  return gulp.src('./app/index.html')
+ gulp.task('usemin',['jshint'], function () {
+  return gulp.src(['./app/index.html','./app/views/*.html'])
       .pipe(usemin({
         css:[minifycss(),rev()],
         js: [ngannotate(),uglify(),rev()]
       }))
       .pipe(gulp.dest('dist/'));
+      
 });
 
 // Images
